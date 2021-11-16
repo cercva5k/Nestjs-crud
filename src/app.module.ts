@@ -10,7 +10,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: 'Tinyone.123.5',
+      password: 'yourpassword',
       database: 'nest-cms',
       autoLoadEntities: true,
       synchronize: true,
